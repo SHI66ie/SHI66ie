@@ -7,7 +7,7 @@ I am a **Full-Stack Developer & Blockchain Enthusiast** focused on building dece
 - 🔭 I’m currently working on [BlockMusic](https://github.com/SHI66ie/BlockMusic), [fmwa-api](https://github.com/SHI66ie/fmwa-api), and [Kobayashi-Ai](https://github.com/SHI66ie/Kobayashi-Ai).
 - 💻 Most used line of code: `git commit -m "Initial Commit"`
 - 🤔 I’m looking for ways to optimize AI strategy calls for real-time telemetry.
-- 📫 How to reach me: [shie.contact@example.com] (Update with your actual email)
+- 📫 How to reach me: [ybarkido@gmail.com ] (Update with your actual email)
 - ⚡ Fun fact: I'm building an AI Co-driver for racing simulations.
 
 ---
@@ -49,8 +49,8 @@ I am a **Full-Stack Developer & Blockchain Enthusiast** focused on building dece
 ## 🛡️ Socials
 
 <p align="left">
-<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
-<a href="https://twitter.com/your-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="your-handle" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yusuf-barkido-shibkau-4b975b194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Your Name" height="30" width="40" /></a>
+<a href="https://twitter.com/Ph3raoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-lite.svg" alt="your-handle" height="30" width="40" /></a>
 </p>
 
 ---
